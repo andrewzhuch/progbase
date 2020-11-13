@@ -33,14 +33,12 @@ namespace lab2
             {
                 WriteLine("Impossible to count integral");
             }
-            else // looking for the closest breakpoint to xMin for the Hx function and compering it with xMax
+            else // looking for the closest breakpoint to xMin for the Hx function and comparing it with xMax
             {
-                double lowerTrashold = Ceiling(xMin);
-                while (Round(Cos((lowerTrashold + 2) * (PI / 180)), 15) != 0)
-                {
-                        lowerTrashold += 1;
-                }
-                if ((lowerTrashold <= xMax && lowerTrashold > xMin) || (lowerTrashold < xMax && lowerTrashold >= xMin))
+                double i = (xMin + 2 - PI / 2) / PI;
+                i = Ceiling(i);
+                double xi = PI / 2 + PI * i - 2;
+                if (xi <= xMax)
                 {
                     WriteLine("Impossible to count integral");
                 }
