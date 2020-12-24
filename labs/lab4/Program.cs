@@ -15,7 +15,6 @@ namespace lab4
         public double x;
         public double y;
         public double radius;
-
     }
     class Program
     {
