@@ -314,7 +314,7 @@ namespace lab6
             Debug.Assert(CheckString("@\"123\"") == true);
             Debug.Assert(CheckString("fwrgg") == false);
             Debug.Assert(CheckString("gkks@\"12") == false);
-            Debug.Assert(CountStrings("@\"friri\"@\"fkkg\"@fkrkf\"") == 3);
+            Debug.Assert(CountStrings("@\"friri\"@\"fkkg\"@fkrkf\"") == 2);
             Debug.Assert(CountStrings("@\"fjgk@\"") == 1);
             Debug.Assert(CountStrings("@\"124lg")== 0);
             Debug.Assert(CompareArrays(GetAllStrings("\'@1234\""),new string[] {}));
