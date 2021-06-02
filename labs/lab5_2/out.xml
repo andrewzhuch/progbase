@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course>
+    <footnote />
+    <sln>27425</sln>
+    <prefix>ENGL</prefix>
+    <crs>102</crs>
+    <lab />
+    <sect>1</sect>
+    <title>WRT TUTORIAL</title>
+    <credit>V</credit>
+    <days />
+    <times>
+      <start />
+      <end />
+    </times>
+    <place>
+      <bldg>ARR</bldg>
+      <room>ARR</room>
+    </place>
+    <instructor />
+    <limit>999</limit>
+    <enrolled>527</enrolled>
+  </Course>
+  <Course>
+    <footnote>Q</footnote>
+    <sln>74443</sln>
+    <prefix>BIOL</prefix>
+    <crs>103</crs>
+    <lab />
+    <sect>1</sect>
+    <title>[B] INTRO BIOL</title>
+    <credit>4.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>11:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>BRYN</bldg>
+      <room>AUD</room>
+    </place>
+    <instructor />
+    <limit>481</limit>
+    <enrolled>478</enrolled>
+  </Course>
+  <Course>
+    <footnote>Q</footnote>
+    <sln>74195</sln>
+    <prefix>BIOL</prefix>
+    <crs>102</crs>
+    <lab />
+    <sect>1</sect>
+    <title>[B] GEN BIOLOGY</title>
+    <credit>4.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>10:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>BRYN</bldg>
+      <room>AUD</room>
+    </place>
+    <instructor />
+    <limit>456</limit>
+    <enrolled>442</enrolled>
+  </Course>
+  <Course>
+    <footnote>Q</footnote>
+    <sln>74203</sln>
+    <prefix>BIOL</prefix>
+    <crs>102</crs>
+    <lab />
+    <sect>2</sect>
+    <title>[B] GEN BIOLOGY</title>
+    <credit>4.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>13:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>BRYN</bldg>
+      <room>AUD</room>
+    </place>
+    <instructor />
+    <limit>346</limit>
+    <enrolled>339</enrolled>
+  </Course>
+  <Course>
+    <footnote>Q</footnote>
+    <sln>18739</sln>
+    <prefix>CHEM</prefix>
+    <crs>105</crs>
+    <lab />
+    <sect>2</sect>
+    <title>[P] PRINCIPLES I</title>
+    <credit>4.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>13:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>FULM</bldg>
+      <room>226</room>
+    </place>
+    <instructor />
+    <limit>310</limit>
+    <enrolled>304</enrolled>
+  </Course>
+  <Course>
+    <footnote />
+    <sln>77941</sln>
+    <prefix>MIS</prefix>
+    <crs>350</crs>
+    <lab />
+    <sect>1</sect>
+    <title>MGT INFO SYS</title>
+    <credit>3.0</credit>
+    <days>TU,TH</days>
+    <times>
+      <start>7:45</start>
+      <end />
+    </times>
+    <place>
+      <bldg>TODD</bldg>
+      <room>AUD</room>
+    </place>
+    <instructor>VANDEVENTER</instructor>
+    <limit>450</limit>
+    <enrolled>286</enrolled>
+  </Course>
+  <Course>
+    <footnote>Q</footnote>
+    <sln>18440</sln>
+    <prefix>CHEM</prefix>
+    <crs>101</crs>
+    <lab />
+    <sect>1</sect>
+    <title>[P] INTRO CHEM</title>
+    <credit>4.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>9:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>FULM</bldg>
+      <room>226</room>
+    </place>
+    <instructor />
+    <limit>290</limit>
+    <enrolled>280</enrolled>
+  </Course>
+  <Course>
+    <footnote>Q</footnote>
+    <sln>18713</sln>
+    <prefix>CHEM</prefix>
+    <crs>105</crs>
+    <lab />
+    <sect>1</sect>
+    <title>[P] PRINCIPLES I</title>
+    <credit>4.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>8:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>FULM</bldg>
+      <room>226</room>
+    </place>
+    <instructor />
+    <limit>310</limit>
+    <enrolled>278</enrolled>
+  </Course>
+  <Course>
+    <footnote />
+    <sln>41251</sln>
+    <prefix>MATH</prefix>
+    <crs>201</crs>
+    <lab />
+    <sect>1</sect>
+    <title>FINITE MATH</title>
+    <credit>3.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>9:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>HLD</bldg>
+      <room>G3</room>
+    </place>
+    <instructor />
+    <limit>260</limit>
+    <enrolled>245</enrolled>
+  </Course>
+  <Course>
+    <footnote>Q</footnote>
+    <sln>34397</sln>
+    <prefix>GEOL</prefix>
+    <crs>101</crs>
+    <lab />
+    <sect>1</sect>
+    <title>[P] INTRO GEOL</title>
+    <credit>4.0</credit>
+    <days>M,W,F</days>
+    <times>
+      <start>10:10</start>
+      <end />
+    </times>
+    <place>
+      <bldg>WEBS</bldg>
+      <room>16</room>
+    </place>
+    <instructor />
+    <limit>250</limit>
+    <enrolled>241</enrolled>
+  </Course>
+</ArrayOfCourse>
